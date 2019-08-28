@@ -1,0 +1,4 @@
+
+export const IMAGES_PENDING = "IMAGES_PENDING";
+export const IMAGES_FETCHED = "IMAGES_FETCHED";
+export const RESET_IMAGES = "RESET_IMAGES";
